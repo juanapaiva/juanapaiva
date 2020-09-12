@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Juana! Welcome to my profile! 😁</h1>
 
-### Currently learning Javascript and Bootstrap, building small projects and joining development events 💻
+### Currently learning Javascript and Bootstrap, building small projects and joining development events
 
 ### About me 🧏🏻
 
@@ -25,4 +25,4 @@ I'm also part of a **Python** study group, which made me participate in the *COB
 <a href="https://www.instagram.com/jubafuu/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-32x32.png" alt="Instagram" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008840581765"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-32x32.png" alt="Facebook" /></a>
 
-#### *I'd like to live the IT world actively, not just watch it growing without me. Seeking to combine theory with practice*
+#### *I'd like to live the IT world actively, not just watch it growing without me. Seeking to combine theory with practice.*
