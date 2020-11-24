@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Juana! Welcome to my profile! 😁</h1>
 
-### Currently learning Javascript and Bootstrap, building small projects and joining development events
+### Currently interning at [IBM](https://www.ibm.com/br-pt) and studying Java and PL/SQL
 
 ### About me 🧏🏻
 
-I'm a Information Systems 4th semester student. <br/>
+I'm an IBM Developer intern and an Information System 5th semester student. <br/>
 
 #### Already learned about:
 - **OOP** and **programming logic**; 
@@ -12,11 +12,11 @@ I'm a Information Systems 4th semester student. <br/>
 - Started my web studies with **HTML, CSS and JavaScript**;
 - And met a little about the Linux OS.
 
-By now, apart from college, I'm studying on my own about **ReactJS, React Native, Styled Components, TypeScript** and many others at development events, as well as having classes on [B7Web's online courses](https://b7web.com.br/fullstack/).
+Moreover, on IBM, I learned about **Agile, Enterprise Design Thinking, Security** and several other subjects available by the company.
 
 <img src="https://github.com/NyraTyto/NyraTyto/blob/master/programmer.png" alt="Programmer image" width=450 align="right" />
 
-I'm also part of a **Python** study group, which made me participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **5th best**. [Read more.](https://drive.google.com/file/d/1FU82qeCLwiE3hOW8GRt5qC0BmE5Nsg2Y/view?usp=sharing)
+I also participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **5th best**. [Read more.](https://drive.google.com/file/d/1FU82qeCLwiE3hOW8GRt5qC0BmE5Nsg2Y/view?usp=sharing)
 
 ### Contact me
 
