@@ -1,22 +1,25 @@
 <h1 align="center">Hey, I'm Juana! Welcome to my profile! 😁</h1>
 
-### Currently interning at [IBM](https://www.ibm.com/br-pt) and studying Java and PL/SQL
+### Currently working at [IBM](https://www.ibm.com/br-pt), learning Python and AI
 
 ### About me 🧏🏻
 
-I'm an IBM Developer intern and an Information System 5th semester student. <br/>
+I'm an IBM Application Developer and an Information System 6th semester student who felt in love with **Artificial Intelligence** subjects. <br/>
 
 #### Already learned about:
 - **OOP** and **programming logic**; 
-- Coded with **C#** and **Java**; 
+- Coded with **C#**, **Java** and **Python** languages; 
 - Started my web studies with **HTML, CSS and JavaScript**;
 - And met a little about the Linux OS.
+
+In my current function, I'm working with PL/SQL and a bit of Java, but learning Python and AI by myself.
 
 Moreover, on IBM, I learned about **Agile, Enterprise Design Thinking, Security** and several other subjects available by the company.
 
 <img src="https://github.com/NyraTyto/NyraTyto/blob/master/programmer.png" alt="Programmer image" width=450 align="right" />
 
-I also participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **5th best**. [Read more.](https://drive.google.com/file/d/1FU82qeCLwiE3hOW8GRt5qC0BmE5Nsg2Y/view?usp=sharing)
+I also participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **5th best**. <br/>
+[Read more.](https://drive.google.com/file/d/1FU82qeCLwiE3hOW8GRt5qC0BmE5Nsg2Y/view?usp=sharing)
 
 ### Contact me
 
