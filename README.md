@@ -18,7 +18,7 @@ In my current function, I design and develop new features and screens for the cl
 
 Moreover, on IBM, I learned about **Enterprise Design Thinking, Security** and several other subjects available by the company.
 
-<img src="https://github.com/NyraTyto/NyraTyto/blob/master/programmer.png" alt="Programmer image" width=450 align="right" />
+<img src="https://github.com/NyraTyto/NyraTyto/blob/master/undraw_programmer_imem.svg" alt="Programmer image" width=450 align="right" />
 
 I also participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **5th best**. <br/>
 [Read more.](https://drive.google.com/file/d/1FU82qeCLwiE3hOW8GRt5qC0BmE5Nsg2Y/view?usp=sharing)
