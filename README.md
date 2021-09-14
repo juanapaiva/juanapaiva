@@ -4,17 +4,19 @@
 
 ### About me 🧏🏻
 
-I'm an IBM Application Developer and an Information System 6th semester student who felt in love with **Artificial Intelligence** subjects. <br/>
+I'm an IBM Application Developer and an Information System 6th semester student who felt in love with **Python** and **Artificial Intelligence subjects**. <br/>
+
+#### I work with:
+- **Java** and **PL/SQL**.
 
 #### Already learned about:
 - **OOP** and **programming logic**; 
-- Coded with **C#**, **Java** and **Python** languages; 
-- Started my web studies with **HTML, CSS and JavaScript**;
-- And met a little about the Linux OS.
+- Coded with **C#**, **Python** and **JavaScript** languages;
+- Agile, Docker and Kubernetes ~and I promisse I'll take the AWS certification until the end of 2022 🚀
 
-In my current function, I'm working with PL/SQL and a bit of Java, but learning Python and AI by myself.
+In my current function, I design and develop new features and screens for the client's current system.
 
-Moreover, on IBM, I learned about **Agile, Enterprise Design Thinking, Security** and several other subjects available by the company.
+Moreover, on IBM, I learned about **Enterprise Design Thinking, Security** and several other subjects available by the company.
 
 <img src="https://github.com/NyraTyto/NyraTyto/blob/master/programmer.png" alt="Programmer image" width=450 align="right" />
 
