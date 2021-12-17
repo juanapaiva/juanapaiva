@@ -1,24 +1,23 @@
 <h1 align="center">Hey, I'm Juana! Welcome to my profile! 😁</h1>
 
-### Currently working at [IBM](https://www.ibm.com/br-pt), learning Python and AI
+### Currently working with Java and PL/SQL at [IBM](https://www.ibm.com/br-pt)
 
-### About me 🧏🏻
+### About me
 
-I'm an IBM Application Developer and an Information System 6th semester student who felt in love with **Python** and **Artificial Intelligence subjects**. <br/>
+I'm a **Junior Software Developer** and **Information System** 7th semester student with expericence in **Java and PL/SQL** applications in the *Insurance industry*. And, by the way, my English is advanced. 🥳<br/>
 
-#### I work with:
-- **Java** and **PL/SQL**.
+### Interests: 
+- Cloud <img src="https://github.com/NyraTyto/NyraTyto/blob/master/undraw_modern_professional_re_3b6l.svg" alt="Programmer image" width=450 align="right" />
+- Spring and TDD 
+- Docker (microsservices)
+- Python and Artificial Inteligence
 
-#### Already learned about:
-- **OOP** and **programming logic**; 
-- Coded with **C#**, **Python** and **JavaScript** languages;
-- Agile, Docker and Kubernetes ~and I promisse I'll take the AWS certification until the end of 2022 🚀
-
-In my current function, I design and develop new features and screens for the client's current system.
-
-Moreover, on IBM, I learned about **Enterprise Design Thinking, Security** and several other subjects available by the company.
-
-<img src="https://github.com/NyraTyto/NyraTyto/blob/master/undraw_programmer_imem.svg" alt="Programmer image" width=450 align="right" />
+### Learnings:
+- OOP and Programming Logic
+- Python and C# languages
+- Agile and Design Thinking
+- Spring and Docker basics
+- HTML and CSS
 
 I also participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **5th best**. <br/>
 [Read more.](https://drive.google.com/file/d/1FU82qeCLwiE3hOW8GRt5qC0BmE5Nsg2Y/view?usp=sharing)
