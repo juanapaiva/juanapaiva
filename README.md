@@ -4,15 +4,17 @@
 
 ### About me
 
-I'm a **Junior Software Developer** and **Information System** 7th semester student with expericence in **Java and PL/SQL** applications in the *Insurance industry*. And, by the way, my English is advanced. 🥳<br/>
+I'm a **Junior Software Developer** with two years of expericence in **PL/SQL and Java** applications in the *Insurance industry*.<br>
+I have a **bacharelor's degree in Information Systems** at UNISANTA and **advanced English**. 🥳<br/>
 
 ### Interests: 
 <img src="https://github.com/NyraTyto/NyraTyto/blob/master/undraw_modern_professional_re_3b6l.svg" alt="Programmer image" width=450 align="right" />
 
 - Cloud
-- Spring and TDD 
-- Docker (microsservices)
-- Python and Artificial Inteligence
+- Spring 
+- Docker
+- Python
+- Artificial Intelligence
 
 ### Learnings:
 - OOP and Programming Logic
@@ -21,7 +23,7 @@ I'm a **Junior Software Developer** and **Information System** 7th semester stud
 - Spring and Docker basics
 - HTML and CSS
 
-I also participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **5th best**. <br/>
+I also participate in the *COBRIC (Brazilian Congress of Scientific Initiation)*, where my group was placed among the **TOP 5**. <br/>
 [Read more.](https://drive.google.com/file/d/1FU82qeCLwiE3hOW8GRt5qC0BmE5Nsg2Y/view?usp=sharing)
 
 ### Contact me
