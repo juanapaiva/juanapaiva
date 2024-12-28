@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a **Junior Software Developer** with three years of expericence in **PL/SQL and Java** applications in the *Insurance industry*.<br>
+I'm a **Junior Software Developer** with +3 years of expericence in **PL/SQL and Java** applications in the *Insurance industry*.<br>
 I have a **bacharelor's degree in Information Systems** at UNISANTA and **advanced English**. 🥳<br/>
 
 ### Interests: 
